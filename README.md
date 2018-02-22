@@ -1,7 +1,7 @@
 # fisher-registration
 Registration service to protect undocumented workers.
 
-[Off Shore](https://www.youtube.com/watch?v=w7vURQUGsc4&feature=youtu.be "Off Shore Video Demo")
+[Offshore](https://www.youtube.com/watch?v=w7vURQUGsc4&feature=youtu.be "Offshore Video Demo")
 
 # To run
 Run this from anywhere
